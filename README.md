@@ -1,268 +1,201 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D1117,100:161B22&height=190&section=header&text=DEEPAK%20MADAMBI&fontColor=39D353&fontSize=44&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20GenAI&descColor=58A6FF&descAlignY=56&animation=fadeIn" width="100%"/>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=180&section=header&text=DEEPAK%20MADAMBI&fontColor=00ff88&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20GenAI&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%"/>
+### `deepak@github:~$ ./profile`
 
-<br>
+**Backend Engineering** · **Distributed Systems** · **AWS** · **GenAI**
+· **React**
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   $ whoami                                                  │
-│                                                             │
-│   Deepak Madambi                                            │
-│   Senior Software Engineer                                  │
-│                                                             │
-│   $ focus --current                                         │
-│                                                             │
-│   Distributed Systems  •  Python  •  AWS  •  GenAI         │
-│   Backend Engineering  •  System Design  •  React          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
+```{=html}
 <p>
-<a href="https://www.linkedin.com/in/deepakmadambi/">
-<img src="https://img.shields.io/badge/LinkedIn-00ff88?style=for-the-badge&logo=linkedin&logoColor=000000"/>
-</a>
-<a href="mailto:deepakmadambi8@gmail.com">
-<img src="https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=000000"/>
-</a>
-<a href="https://github.com/deepakmadambi">
-<img src="https://img.shields.io/badge/GitHub-00ff88?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+```
+`<a href="https://www.linkedin.com/in/deepakmadambi/">`{=html}`<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22"/>`{=html}`</a>`{=html}
+`<a href="mailto:deepakmadambi8@gmail.com">`{=html}`<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=161B22"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/deepakmadambi">`{=html}`<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+:::
 
-</div>
+------------------------------------------------------------------------
 
----
+## `> whoami`
 
-```text
-$ cat /etc/deepak/about.conf
+> **Senior Software Engineer with 10+ years of experience** building
+> resilient distributed systems, high-performance Python backends,
+> cloud-native platforms, and production-grade GenAI solutions.
+
+I work across architecture, backend engineering, cloud infrastructure,
+AI/LLM systems, performance, reliability, and technical leadership.
+
+``` text
+$ focus --current
+
+  Python              ████████████████████
+  Distributed Systems ████████████████████
+  AWS                 ███████████████████
+  GenAI / LLM         ██████████████████
+  Backend             ████████████████████
+  React               ███████████████
+  System Design       ███████████████████
 ```
 
-## `> ABOUT_ME`
+------------------------------------------------------------------------
 
-```text
-10+ years of software engineering experience.
+## `> ./impact --summary`
 
-I design and build resilient distributed systems, high-performance
-Python backends, cloud-native platforms and production-grade
-Generative AI solutions.
+::: {align="center"}
+   🟢 **10+ YEARS**   🔵 **2,000+**   🟢 **PETABYTE-SCALE**
+  ------------------ --------------- -----------------------
+     Engineering      AWS Accounts          Telemetry
 
-My engineering interests span the full path from low-level
-concurrency and Python internals to large-scale distributed
-systems and AI infrastructure.
+    🔵 **85% ↓**     🟢 **98% ↓**   🔵 **500K+ / DAY**
+  ----------------- -------------- --------------------
+   Diagnostic Time    LLM Tokens        Workflows
 
-I enjoy turning complex engineering problems into simple,
-reliable and scalable systems.
+   🟢 **98% ↓**     🔵 **15**      🟢 **99.99%**
+  -------------- --------------- -----------------
+   Bedrock Cost   Engineers Led   Platform Uptime
+:::
+
+------------------------------------------------------------------------
+
+## `> ls ./stack`
+
+### 🟢 Backend
+
+```{=html}
+<p>
 ```
-
----
-
-```text
-$ ./metrics --impact
+`<img src="https://img.shields.io/badge/Python-39D353?style=for-the-badge&logo=python&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/FastAPI-39D353?style=for-the-badge&logo=fastapi&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/Django-39D353?style=for-the-badge&logo=django&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/Java-39D353?style=for-the-badge&logo=openjdk&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/JavaScript-39D353?style=for-the-badge&logo=javascript&logoColor=000000"/>`{=html}
+```{=html}
+</p>
 ```
+### 🔵 Frontend
 
-## `> ENGINEERING_IMPACT`
-
-<div align="center">
-
-| `10+ YEARS` | `2,000+` | `PETABYTE-SCALE` |
-|:---:|:---:|:---:|
-| Engineering | AWS Accounts | Telemetry |
-
-| `85% ↓` | `98% ↓` | `500K+ / DAY` |
-|:---:|:---:|:---:|
-| Diagnostic Time | LLM Tokens | Production Workflows |
-
-| `98% ↓` | `15` | `99.99%` |
-|:---:|:---:|:---:|
-| Bedrock Cost | Engineers Led | Platform Uptime |
-
-</div>
-
----
-
-```text
-$ ls -la ./stack
+```{=html}
+<p>
 ```
-
-## `> TECH_STACK`
-
-### `backend`
-
-```text
-Python      ████████████████████
-FastAPI     ███████████████████
-Django      ██████████████████
-Java        █████████████
+`<img src="https://img.shields.io/badge/React-58A6FF?style=for-the-badge&logo=react&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/ReactJS-58A6FF?style=for-the-badge&logo=react&logoColor=000000"/>`{=html}
+```{=html}
+</p>
 ```
+### 🟢 GenAI
 
-### `frontend`
-
-```text
-React       █████████████████
-JavaScript  ███████████████
+```{=html}
+<p>
 ```
-
-### `ai_engineering`
-
-```text
-Amazon Bedrock
-OpenAI
-LangGraph
-LangChain
-RAG
-MCP
-LLM Agents
+`<img src="https://img.shields.io/badge/Amazon%20Bedrock-39D353?style=for-the-badge&logo=amazonaws&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/OpenAI-39D353?style=for-the-badge&logo=openai&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/LangGraph-39D353?style=for-the-badge&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/LangChain-39D353?style=for-the-badge&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/RAG-39D353?style=for-the-badge&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/MCP-39D353?style=for-the-badge&logoColor=000000"/>`{=html}
+```{=html}
+</p>
 ```
+### 🔵 Cloud & Infrastructure
 
-### `cloud_infrastructure`
-
-```text
-AWS
-├── Lambda
-├── ECS / Fargate
-├── Step Functions
-├── S3
-├── API Gateway
-├── DynamoDB
-├── CloudWatch
-└── IAM
-
-Docker
-Kubernetes
-GitHub Actions
-CI/CD
+```{=html}
+<p>
 ```
-
-### `data_messaging`
-
-```text
-PostgreSQL
-DynamoDB
-MongoDB
-Kafka
-Redis
-SNS / SQS
-Kinesis
+`<img src="https://img.shields.io/badge/AWS-58A6FF?style=for-the-badge&logo=amazonwebservices&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/Docker-58A6FF?style=for-the-badge&logo=docker&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/Kubernetes-58A6FF?style=for-the-badge&logo=kubernetes&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/GitHub%20Actions-58A6FF?style=for-the-badge&logo=githubactions&logoColor=000000"/>`{=html}
+```{=html}
+</p>
 ```
+### 🟢 Data & Messaging
 
-### `architecture`
-
-```text
-Distributed Systems
-Microservices
-Event-Driven Architecture
-Caching
-Load Balancing
-High Availability
-Disaster Recovery
-Observability
-Performance Engineering
-System Design
+```{=html}
+<p>
 ```
-
----
-
-```text
-$ git log --oneline --career
+`<img src="https://img.shields.io/badge/PostgreSQL-39D353?style=for-the-badge&logo=postgresql&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/MongoDB-39D353?style=for-the-badge&logo=mongodb&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/DynamoDB-39D353?style=for-the-badge&logo=amazondynamodb&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/Kafka-39D353?style=for-the-badge&logo=apachekafka&logoColor=000000"/>`{=html}
+`<img src="https://img.shields.io/badge/Redis-39D353?style=for-the-badge&logo=redis&logoColor=000000"/>`{=html}
+```{=html}
+</p>
 ```
+### 🔵 Architecture
 
-## `> EXPERIENCE`
+`Distributed Systems` · `Microservices` · `Event-Driven Architecture` ·
+`Caching` · `High Availability` · `Disaster Recovery` · `Observability`
+· `Performance Engineering` · `System Design`
 
-### `01` Deloitte India — Senior Consultant / Software Engineer
+------------------------------------------------------------------------
 
-`Nov 2023 → Present`
+## `> git log --career`
+
+### `01` Deloitte India --- Senior Consultant / Software Engineer
+
+**Nov 2023 → Present**
 
 **Client: Sony (SISC)**
 
-```text
-┌─ GenAI AIOps Platform
+``` text
+┌─ Multi-Agent GenAI AIOps Platform
 │
-├─ Multi-agent architecture
-├─ LangGraph + Amazon Bedrock
-├─ 2,000+ AWS accounts
-├─ Petabyte-scale telemetry
-├─ 9 MCP tool servers
-├─ ECS Fargate + least-privilege IAM
-├─ Automated deep RCA
-├─ Step Functions Distributed Map
-└─ Real-time WebSocket streaming
-```
+├── 2,000+ AWS accounts
+├── Petabyte-scale telemetry
+├── LangGraph + Amazon Bedrock
+├── 9 MCP tool servers on ECS Fargate
+├── Least-privilege IAM
+├── Automated deep-RCA pipeline
+├── Step Functions Distributed Map
+└── Real-time WebSocket streaming
 
-**Impact**
-
-```text
-Diagnostic time       → 85% reduction
-LLM tokens            → 98%+ reduction
-Bedrock cost          → 98% reduction
-RCA efficiency        → 60% improvement
+RESULTS
+├── Diagnostic time       → 85% reduction
+├── LLM tokens            → 98%+ reduction
+├── Bedrock cost          → 98% reduction
+└── RCA efficiency        → 60% improvement
 ```
 
 **Client: Mercedes-Benz R&D**
 
-```text
+``` text
 500K+ AVOs / day
 99.9% data consistency
 <300ms P95 response time
 50% planning efficiency improvement
-30% reduction in resolution time
+30% resolution-time reduction
 ```
 
----
+### `02` Do Your Thng --- Technical Lead / Founding Member
 
-### `02` Do Your Thng — Technical Lead / Founding Member
+**Apr 2021 → Jul 2023**
 
-`Apr 2021 → Jul 2023`
+`1TB+ multimedia` · `10M+ daily notifications` ·
+`100K+ peak notifications within seconds` · `99.99% uptime` ·
+`300+ brands` · `15 engineers led`
 
-```text
-1TB+ multimedia content
-10M+ daily notifications
-100K+ notifications within seconds
-99.99% uptime
-300+ brands
-15 engineers led and mentored
-```
+### `03` Gloify --- Technical Lead
 
-Focus:
+**Feb 2018 → Mar 2021**
 
-`Distributed Systems` · `AWS` · `Event Driven Architecture` · `Media Processing`
+`Cloud-native systems` · `High availability` ·
+`Offline-first architecture` · `Web + mobile platforms`
 
----
+### `04` Mindcom --- Software Engineer
 
-### `03` Gloify — Technical Lead
+**Nov 2016 → Jan 2018**
 
-`Feb 2018 → Mar 2021`
+`150,000+ users` · `50+ institutions` ·
+`Backend performance optimization`
 
-```text
-Cloud-native distributed systems
-High availability
-Offline-first architecture
-Web + mobile platforms
-```
+------------------------------------------------------------------------
 
----
+## `> find ./interests`
 
-### `04` Mindcom — Software Engineer
-
-`Nov 2016 → Jan 2018`
-
-```text
-150,000+ users
-50+ institutions
-Backend performance optimization
-```
-
----
-
-```text
-$ find ./interests -maxdepth 2 -type f
-```
-
-## `> ENGINEERING_INTERESTS`
-
-```text
+``` text
 ./distributed-systems
 ./system-design
 ./python-internals
@@ -280,130 +213,72 @@ $ find ./interests -maxdepth 2 -type f
 ./performance-engineering
 ```
 
----
+------------------------------------------------------------------------
 
-```text
-$ ./problem-solving --stats
+## `> ./problem-solving --stats`
+
+::: {align="center"}
+### **800+ LeetCode Problems Solved**
+
+`Arrays` · `Hash Tables` · `Binary Search` · `Graphs` ·
+`Dynamic Programming` · `Backtracking`
+:::
+
+------------------------------------------------------------------------
+
+## `> ./public-work`
+
+I am building a small set of **public reference implementations**
+focused on engineering fundamentals and production patterns.
+
+  -----------------------------------------------------------------------
+  Repository                          Focus
+  ----------------------------------- -----------------------------------
+  🟢 **Production RAG**               Ingestion · Retrieval · Reranking ·
+                                      Evaluation
+
+  🔵 **Distributed Systems Lab**      Rate Limiting · Caching ·
+                                      Idempotency · Messaging
+
+  🟢 **Python Concurrency**           Threading · Multiprocessing ·
+                                      AsyncIO · Synchronization
+
+  🔵 **AI Agents**                    LangGraph · MCP · Tool Calling ·
+                                      Multi-Agent Systems
+
+  🟢 **System Design**                Scalable architectures · Trade-offs
+                                      · Design patterns
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## `> cat ./engineering-principles`
+
+``` text
+01  Keep systems simple.
+02  Design for failure.
+03  Measure before optimizing.
+04  Make scalability an architectural property.
+05  Make trade-offs explicit.
+06  Automate repetitive work.
+07  Understand the fundamentals.
+08  Build → Measure → Learn → Improve.
 ```
 
-## `> PROBLEM_SOLVING`
+------------------------------------------------------------------------
 
-**800+ LeetCode problems solved**
+::: {align="center"}
+``` text
+$ echo "Building systems that scale."
 
-Primary focus:
-
-```text
-Arrays
-Hash Tables
-Binary Search
-Graphs
-Dynamic Programming
-Backtracking
-Strings
+Building systems that scale.
 ```
 
----
+`<a href="https://www.linkedin.com/in/deepakmadambi/">`{=html}
+`<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-39D353?style=for-the-badge&logo=linkedin&logoColor=000000"/>`{=html}
+`</a>`{=html}
 
-```text
-$ tree ./public-work
-```
+`<br>`{=html}`<br>`{=html}
 
-## `> PUBLIC_ENGINEERING`
-
-```text
-public-work/
-│
-├── production-rag/
-│   ├── ingestion
-│   ├── chunking
-│   ├── embeddings
-│   ├── retrieval
-│   ├── reranking
-│   └── evaluation
-│
-├── distributed-systems/
-│   ├── rate-limiter
-│   ├── distributed-lock
-│   ├── caching
-│   ├── idempotency
-│   └── messaging
-│
-├── python-concurrency/
-│   ├── threading
-│   ├── multiprocessing
-│   ├── asyncio
-│   └── synchronization
-│
-├── ai-agents/
-│   ├── langgraph
-│   ├── mcp
-│   ├── tool-calling
-│   └── multi-agent
-│
-└── system-design/
-    ├── youtube
-    ├── uber
-    ├── instagram
-    ├── google-maps
-    └── collaborative-editor
-```
-
-> Public repositories will be added as production-quality reference implementations and engineering experiments are completed.
-
----
-
-```text
-$ cat ./principles.txt
-```
-
-## `> ENGINEERING_PRINCIPLES`
-
-```text
-01. Keep systems simple.
-02. Design for failure.
-03. Measure before optimizing.
-04. Make scalability an architectural property.
-05. Prefer explicit trade-offs over accidental complexity.
-06. Automate repetitive work.
-07. Understand the fundamentals.
-08. Build → Measure → Learn → Improve.
-```
-
----
-
-```text
-$ ./connect
-```
-
-## `> CONNECT`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/deepakmadambi/">
-<img src="https://img.shields.io/badge/LINKEDIN-00ff88?style=flat-square&logo=linkedin&logoColor=000000"/>
-</a>
-&nbsp;
-<a href="mailto:deepakmadambi8@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00ff88?style=flat-square&logo=gmail&logoColor=000000"/>
-</a>
-
-<br><br>
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   $ echo "Building systems that scale."      │
-│                                              │
-│   Building systems that scale.               │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=100&section=footer"/>
-
-<!--
-Profile: Deepak Madambi
-Focus: Backend Engineering | Distributed Systems | GenAI
--->
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:0D1117,100:050505&height=100&section=footer"/>`{=html}
+:::
