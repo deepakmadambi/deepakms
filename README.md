@@ -1,14 +1,10 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  deepak@ms:~$ whoami                                              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Deepak+MS;Software+Engineer+%40+Sony+(via+Deloitte);Building+GenAI-powered+AIOps+at+petabyte+scale;10%2B+years+shipping+production+systems" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Deepak+MS;Software+Engineer+%40+Sony+(via+Deloitte);Building+GenAI-powered+AIOps+at+petabyte+scale;9%2B+years+shipping+production+systems" alt="Typing SVG" />
+<br>
 
-[![Experience](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdeepakmadambi8%2Fdeepakmadambi8%2Fmain%2Fexperience-badge.json&style=for-the-badge&labelColor=000000)](#-experience-calculator)
+![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-39FF14?style=for-the-badge&labelColor=000000)
 ![Profile views](https://komarev.com/ghpvc/?username=deepakmadambi8&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](#)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](#)
@@ -18,11 +14,17 @@
 <br>
 
 ```bash
-deepak@ms:~$ cat about.txt
+deepak@ms:~$ whoami
+```
+```
+Deepak MS — Software Engineer, 10+ years, currently @ Sony (via Deloitte)
 ```
 
+```bash
+deepak@ms:~$ cat about.txt
 ```
-I'm a Software Engineer with 9+ years of experience, currently working
+```
+I'm a Software Engineer with 10+ years of experience, currently working
 with Sony through Deloitte. I lead a team of 6 engineers building a
 GenAI-powered AIOps platform that operates across 2,000+ AWS accounts,
 processing petabyte-scale telemetry.
@@ -104,28 +106,6 @@ deepak@ms:~$ neofetch --stack
 </td>
 </tr>
 </table>
-
-<br>
-
-## `$ ./experience_calculator.sh`
-
-<div align="center">
-
-[![Experience Counter](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdeepakmadambi8%2Fdeepakmadambi8%2Fmain%2Fexperience-badge.json&style=for-the-badge&label=EXPERIENCE&labelColor=000000&color=39FF14)](#)
-
-*counter started: `2016-11-21` — updates automatically every week via GitHub Actions*
-
-</div>
-
-```
-$ ./experience_calculator.sh
-Calculating tenure...
-  start_date : 2016-11-21
-  today      : $(date +%Y-%m-%d)
-  -----------------------------
-  years      : <auto-computed by .github/workflows/update-experience.yml>
-  status     : still shipping.
-```
 
 <br>
 
